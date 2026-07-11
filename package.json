@@ -13,7 +13,7 @@
       "require": "./dist/index.cjs"
     }
   },
-  "files": ["dist", "README.md"],
+  "files": ["dist", "README.md", "SECURITY.md", "STORAGE.md", "AGENTS.md", "SKILL.md"],
   "engines": {
     "node": ">=18"
   },
